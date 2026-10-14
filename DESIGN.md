@@ -1,0 +1,10 @@
+# Profile redesign, 14 October 2026
+
+1. Use Project2100's verified website tokens: blue #0066CC, light blue #1A8CFF, ink #0A0A0A, paper #FAFBFC, surface #F4F7FA. Light artwork, clean type, no decorative badges, no em dashes. GitHub owns the surrounding page theme.
+2. One expressive hero: Josh Botha, full-stack developer, pixel-built hands that resolve in three seconds. Draw the illustration as individual SVG squares sampled from the existing source art. No raster inside the shipped SVG, no JavaScript. Keep the original generated image as source material.
+3. Remove the astronaut and replace generic centred sections with a concise introduction, useful work categories, a restrained tool row and one combined activity landscape.
+4. The 3D landscape has one column per day, stacked by source: GitHub contributions, recorded Claude human prompts, recorded Codex human prompts. Separate totals and a visible legend. Heights use logarithmic scaling per source; do not imply that prompts equal commits, productivity, time or tokens.
+5. Export only date-level counts, source coverage, timezone and snapshot time. No text, paths, session identifiers, tokens, repository names, model names or raw transcript records in the published dataset. Exclude subagents, imported duplicate threads, system/tool events and repeated history.
+6. GitHub refreshes daily in Actions. Local AI data is explicitly a dated snapshot, refreshed with a local script; cloud Actions cannot read this computer. Do not install a background task without a separate request.
+7. SVG entrances finish once, within three seconds. Reduced motion shows the final frame. Static defaults remain visible if animation is unsupported. Preserve links as native Markdown/HTML for accessibility.
+8. Verify aggregate math, parser fixtures, no private fields in exported data, SVG validity, GitHub Markdown acceptance, static renders of initial/middle/final states and the hosted workflow. Browser verification depends on the available browser tool.

@@ -1,0 +1,1847 @@
+{
+  "schemaVersion": 1,
+  "timezone": "Australia/Sydney",
+  "generatedAt": "2026-10-14T03:51:38.657916+00:00",
+  "coverage": "Local histories available on this computer; excludes subagents and imported threads. Earlier or missing histories are not reconstructed.",
+  "sources": {
+    "claude": {
+      "metric": "recorded human prompts",
+      "firstRecordedDay": "2026-04-08",
+      "lastRecordedDay": "2026-10-14",
+      "total": 5193
+    },
+    "codex": {
+      "metric": "recorded human prompts",
+      "firstRecordedDay": "2026-03-10",
+      "lastRecordedDay": "2026-10-14",
+      "total": 1158
+    }
+  },
+  "days": [
+    {
+      "date": "2025-10-15",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-16",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-17",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-18",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-19",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-20",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-21",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-22",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-23",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-24",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-25",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-26",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-27",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-28",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-29",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-30",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-10-31",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-01",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-02",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-03",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-04",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-05",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-06",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-07",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-08",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-09",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-10",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-11",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-12",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-13",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-14",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-15",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-16",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-17",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-18",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-19",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-20",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-21",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-22",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-23",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-24",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-25",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-26",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-27",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-28",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-29",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-11-30",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-01",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-02",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-03",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-04",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-05",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-06",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-07",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-08",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-09",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-10",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-11",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-12",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-13",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-14",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-15",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-16",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-17",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-18",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-19",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-20",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-21",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-22",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-23",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-24",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-25",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-26",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-27",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-28",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-29",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-30",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2025-12-31",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-01",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-02",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-03",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-04",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-05",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-06",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-07",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-08",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-09",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-10",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-11",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-12",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-13",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-14",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-15",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-16",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-17",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-18",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-19",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-20",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-21",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-22",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-23",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-24",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-25",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-26",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-27",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-28",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-29",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-30",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-01-31",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-01",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-02",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-03",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-04",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-05",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-06",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-07",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-08",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-09",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-10",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-11",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-12",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-13",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-14",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-15",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-16",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-17",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-18",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-19",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-20",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-21",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-22",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-23",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-24",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-25",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-26",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-27",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-02-28",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-03-01",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-03-02",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-03-03",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-03-04",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-03-05",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-03-06",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-03-07",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-03-08",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-03-09",
+      "claude": null,
+      "codex": null
+    },
+    {
+      "date": "2026-03-10",
+      "claude": null,
+      "codex": 25
+    },
+    {
+      "date": "2026-03-11",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-12",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-13",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-14",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-15",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-16",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-17",
+      "claude": null,
+      "codex": 10
+    },
+    {
+      "date": "2026-03-18",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-19",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-20",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-21",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-22",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-23",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-24",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-25",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-26",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-27",
+      "claude": null,
+      "codex": 7
+    },
+    {
+      "date": "2026-03-28",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-29",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-30",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-03-31",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-01",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-02",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-03",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-04",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-05",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-06",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-07",
+      "claude": null,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-08",
+      "claude": 143,
+      "codex": 17
+    },
+    {
+      "date": "2026-04-09",
+      "claude": 62,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-10",
+      "claude": 44,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-11",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-12",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-13",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-14",
+      "claude": 62,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-15",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-16",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-17",
+      "claude": 53,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-18",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-19",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-20",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-21",
+      "claude": 76,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-22",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-23",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-24",
+      "claude": 43,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-25",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-26",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-27",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-28",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-29",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-04-30",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-01",
+      "claude": 58,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-02",
+      "claude": 18,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-03",
+      "claude": 4,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-04",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-05",
+      "claude": 37,
+      "codex": 87
+    },
+    {
+      "date": "2026-05-06",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-07",
+      "claude": 32,
+      "codex": 74
+    },
+    {
+      "date": "2026-05-08",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-09",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-10",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-11",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-12",
+      "claude": 104,
+      "codex": 23
+    },
+    {
+      "date": "2026-05-13",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-14",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-15",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-16",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-17",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-18",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-19",
+      "claude": 55,
+      "codex": 7
+    },
+    {
+      "date": "2026-05-20",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-21",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-22",
+      "claude": 5,
+      "codex": 18
+    },
+    {
+      "date": "2026-05-23",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-24",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-25",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-26",
+      "claude": 101,
+      "codex": 20
+    },
+    {
+      "date": "2026-05-27",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-28",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-29",
+      "claude": 27,
+      "codex": 4
+    },
+    {
+      "date": "2026-05-30",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-05-31",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-01",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-02",
+      "claude": 78,
+      "codex": 1
+    },
+    {
+      "date": "2026-06-03",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-04",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-05",
+      "claude": 6,
+      "codex": 1
+    },
+    {
+      "date": "2026-06-06",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-07",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-08",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-09",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-10",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-11",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-12",
+      "claude": 7,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-13",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-14",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-15",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-16",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-17",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-18",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-19",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-20",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-21",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-22",
+      "claude": 4,
+      "codex": 31
+    },
+    {
+      "date": "2026-06-23",
+      "claude": 18,
+      "codex": 7
+    },
+    {
+      "date": "2026-06-24",
+      "claude": 4,
+      "codex": 14
+    },
+    {
+      "date": "2026-06-25",
+      "claude": 0,
+      "codex": 13
+    },
+    {
+      "date": "2026-06-26",
+      "claude": 0,
+      "codex": 19
+    },
+    {
+      "date": "2026-06-27",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-28",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-29",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-06-30",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-01",
+      "claude": 0,
+      "codex": 7
+    },
+    {
+      "date": "2026-07-02",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-03",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-04",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-05",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-06",
+      "claude": 2,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-07",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-08",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-09",
+      "claude": 58,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-10",
+      "claude": 62,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-11",
+      "claude": 7,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-12",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-13",
+      "claude": 14,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-14",
+      "claude": 10,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-15",
+      "claude": 50,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-16",
+      "claude": 12,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-17",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-18",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-19",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-20",
+      "claude": 97,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-21",
+      "claude": 70,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-22",
+      "claude": 76,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-23",
+      "claude": 92,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-24",
+      "claude": 67,
+      "codex": 248
+    },
+    {
+      "date": "2026-07-25",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-26",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-27",
+      "claude": 13,
+      "codex": 59
+    },
+    {
+      "date": "2026-07-28",
+      "claude": 143,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-29",
+      "claude": 236,
+      "codex": 0
+    },
+    {
+      "date": "2026-07-30",
+      "claude": 123,
+      "codex": 4
+    },
+    {
+      "date": "2026-07-31",
+      "claude": 18,
+      "codex": 66
+    },
+    {
+      "date": "2026-08-01",
+      "claude": 0,
+      "codex": 4
+    },
+    {
+      "date": "2026-08-02",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-03",
+      "claude": 0,
+      "codex": 64
+    },
+    {
+      "date": "2026-08-04",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-05",
+      "claude": 144,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-06",
+      "claude": 3,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-07",
+      "claude": 197,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-08",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-09",
+      "claude": 8,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-10",
+      "claude": 172,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-11",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-12",
+      "claude": 164,
+      "codex": 3
+    },
+    {
+      "date": "2026-08-13",
+      "claude": 23,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-14",
+      "claude": 12,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-15",
+      "claude": 1,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-16",
+      "claude": 2,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-17",
+      "claude": 100,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-18",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-19",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-20",
+      "claude": 88,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-21",
+      "claude": 129,
+      "codex": 33
+    },
+    {
+      "date": "2026-08-22",
+      "claude": 5,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-23",
+      "claude": 1,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-24",
+      "claude": 92,
+      "codex": 12
+    },
+    {
+      "date": "2026-08-25",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-26",
+      "claude": 28,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-27",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-28",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-29",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-30",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-08-31",
+      "claude": 190,
+      "codex": 11
+    },
+    {
+      "date": "2026-09-01",
+      "claude": 2,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-02",
+      "claude": 16,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-03",
+      "claude": 44,
+      "codex": 10
+    },
+    {
+      "date": "2026-09-04",
+      "claude": 188,
+      "codex": 20
+    },
+    {
+      "date": "2026-09-05",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-06",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-07",
+      "claude": 107,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-08",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-09",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-10",
+      "claude": 50,
+      "codex": 21
+    },
+    {
+      "date": "2026-09-11",
+      "claude": 42,
+      "codex": 22
+    },
+    {
+      "date": "2026-09-12",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-13",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-14",
+      "claude": 204,
+      "codex": 21
+    },
+    {
+      "date": "2026-09-15",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-16",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-17",
+      "claude": 47,
+      "codex": 26
+    },
+    {
+      "date": "2026-09-18",
+      "claude": 11,
+      "codex": 20
+    },
+    {
+      "date": "2026-09-19",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-20",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-21",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-22",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-23",
+      "claude": 56,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-24",
+      "claude": 46,
+      "codex": 12
+    },
+    {
+      "date": "2026-09-25",
+      "claude": 75,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-26",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-27",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-28",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-29",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-09-30",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-01",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-02",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-03",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-04",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-05",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-06",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-07",
+      "claude": 211,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-08",
+      "claude": 63,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-09",
+      "claude": 184,
+      "codex": 80
+    },
+    {
+      "date": "2026-10-10",
+      "claude": 21,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-11",
+      "claude": 1,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-12",
+      "claude": 139,
+      "codex": 22
+    },
+    {
+      "date": "2026-10-13",
+      "claude": 0,
+      "codex": 0
+    },
+    {
+      "date": "2026-10-14",
+      "claude": 136,
+      "codex": 15
+    }
+  ]
+}

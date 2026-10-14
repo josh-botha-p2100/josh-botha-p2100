@@ -24,7 +24,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/stats-dark.svg assets/stats-light.svg assets/activity-dark.svg assets/activity-light.svg
+          git add assets/activity-3d.svg assets/activity-3d-static.svg assets/activity-3d-mobile.svg assets/activity-3d-mobile-static.svg
           if ! git diff --cached --quiet; then
             git commit -m "Refresh GitHub contribution charts"
             git push
