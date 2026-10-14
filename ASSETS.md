@@ -1,0 +1,28 @@
+# Profile assets
+
+The profile artwork was created for Josh Botha with the built-in OpenAI image generation tool on 14 October 2026. Original PNGs and six-second GIF loops are stored in `assets/`. The GIFs are rendered by FFmpeg through `scripts/render-motion.mjs`. The previous header is retained as a historical asset.
+
+## Rebuild
+
+```sh
+node scripts/render-motion.mjs /path/to/ffmpeg
+node scripts/update-stats.mjs
+```
+
+The stats script uses `GITHUB_TOKEN` in Actions or the authenticated GitHub CLI locally. It publishes only aggregated contribution counts and weekly totals from GitHub's contribution calendar. It never publishes repository names, commit messages or raw API responses. The daily workflow refreshes the charts; no external stats-image service is required. GitHub can disable scheduled workflows in inactive public repositories after 60 days, so re-enable the workflow if updates stop.
+
+The contribution graph and typing SVGs include reduced-motion styling. GIF motion is deliberately slow; GitHub controls animated-image playback. Dark and light SVG variants follow the viewer's theme. The artwork itself uses the reference's dark monochrome treatment.
+
+## Icons
+
+Technology marks are from [Devicon](https://github.com/devicons/devicon), revision `6a37858047b0e8d9c9c0e68f4a071fc410652e89`. The MIT license is included at `assets/icons/LICENSE`. The original marks remain the property of their respective owners. These assets are stored locally so the profile does not depend on an icon-image service.
+
+## Original generation prompts
+
+### Reaching hands
+
+Create an original wide banner illustration for a GitHub developer profile, 1536x512 aspect ratio (3:1). Two anatomically believable human hands reaching toward each other from opposite edges, fingers nearly touching at center, inspired by Creation of Adam. LEFT hand enters upper left and points down/right; RIGHT hand enters lower right and reaches up/left. Render entirely in white and silver stippled halftone / dithered pixel art, detailed sculptural anatomy, elegant cyberpunk editorial engraving. Pure flat near-black background hex #0d1117. Fine white dot particles dissolving from wrist edges, almost no stars. A thin retro computer window outline behind the gap between fingertips, empty inside, delicate white lines, small square window controls. Strong negative space, horizontal composition, hands fill the frame. No text, no typography, no logos, no watermark. Crisp high contrast, monochrome only. Deliver just the banner art, no surrounding webpage or UI.
+
+### Astronaut
+
+Create a square 1024x1024 illustration for a developer GitHub profile. A lone astronaut floating in zero gravity, three-quarter view turned left, knees slightly bent, one hand reaching forward. Beautiful detailed retro 1-bit pixel art and silver-white stippled halftone engraving, large glossy dark visor, textured spacesuit, backpack and a thin gently curling tether. Monochrome white, cool gray, black. Pure flat background hex #0d1117 matching GitHub dark mode. Astronaut occupies central 72% of square with room around every edge, no text, no logos, no flags, no watermark, no planets, few tiny distant stars. Sophisticated editorial game pixel art, not cute cartoon. High contrast sculptural lighting.
