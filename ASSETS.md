@@ -27,6 +27,8 @@ The contribution graph and typing SVGs include reduced-motion styling. GIF motio
 
 Technology marks are from [Devicon](https://github.com/devicons/devicon), revision `6a37858047b0e8d9c9c0e68f4a071fc410652e89`. The MIT license is included at `assets/icons/LICENSE`. The original marks remain the property of their respective owners. These assets are stored locally so the profile does not depend on an icon-image service.
 
+The Connect row uses the genuine GitHub, LinkedIn and X marks from the same Devicon revision and license. GitHub and X have white variants for dark mode; their geometry is unchanged. The Project2100 PNG is the company's existing website logo (`src/assets/Project2100_Logo.png`), used unchanged. Email uses an original blue envelope symbol for the mailto link, rather than implying a particular email provider. All Connect assets are self-hosted in `assets/connect/`.
+
 ## Original generation prompts
 
 ### Reaching hands

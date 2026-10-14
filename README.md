@@ -11,7 +11,15 @@
 
 At [Project2100](https://www.project2100.com), I work across web applications, Microsoft Office add-ins, business intelligence and AI-assisted workflows. My focus is making complex systems easier to use.
 
-[Project2100 ↗](https://www.project2100.com) &nbsp; / &nbsp; [Get in touch ↗](mailto:josh@project2100.com) &nbsp; / &nbsp; [Explore my repositories ↗](https://github.com/josh-botha-p2100?tab=repositories)
+### Connect
+
+<p>
+  <a href="https://github.com/josh-botha-p2100" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect/github-dark.svg" /><img src="assets/connect/github.svg" alt="GitHub" width="40" height="40" /></picture></a> &nbsp; &nbsp;
+  <a href="https://www.project2100.com" title="Project2100"><img src="assets/connect/project2100.png" alt="Project2100" width="39" height="40" /></a> &nbsp; &nbsp;
+  <a href="mailto:josh@project2100.com" title="Email Josh"><img src="assets/connect/email.svg" alt="Email Josh" width="40" height="40" /></a> &nbsp; &nbsp;
+  <a href="https://x.com/J0SHB0THA" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect/x-dark.svg" /><img src="assets/connect/x.svg" alt="X" width="40" height="40" /></picture></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/josh-botha-88139b368" title="LinkedIn"><img src="assets/connect/linkedin.svg" alt="LinkedIn" width="40" height="40" /></a>
+</p>
 
 <br />
 
